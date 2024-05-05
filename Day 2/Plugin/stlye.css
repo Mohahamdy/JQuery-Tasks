@@ -1,0 +1,21 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+#cointr{
+    width: 300px;
+    background-color:bisque;
+    position: relative;
+    left: -100px;
+    color:steelblue;
+}
+h2{
+    text-align: center;
+}
+h3{
+    padding-left: 15px;
+}
+li{
+    padding-left: 40px;
+    display: none   ;
+}
